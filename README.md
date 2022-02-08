@@ -6,9 +6,6 @@
 
 -Taheny BELGUITH
 
-## Live Demo
-
-[My Demo](https://)
 
 ## Getting Started
 
