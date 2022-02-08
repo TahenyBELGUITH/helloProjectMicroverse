@@ -1,12 +1,12 @@
 # Hello Project
 
-> This is my First README file
+> This is my First Project in Microverse
 
 ## Built with
 
-- HTML/CSS
-- LINTERS config
-- VSCODE
+- HTML
+- CSS
+
 ## Getting Started
 
 > To get a local copy up and running follow these simple example steps.
