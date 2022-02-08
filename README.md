@@ -4,8 +4,9 @@
 
 ## Built with
 
--Taheny BELGUITH
-
+- HTML/CSS
+- LINTERS config
+- VSCODE
 
 ## Getting Started
 
@@ -13,19 +14,18 @@
 
 ### Prerequisites
 
+- Github Account
+- IDE
+- Git
+
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- git init
+- git clone git@github.com:TahenyBELGUITH/helloProjectMicroverse.git
 
 ## Authors
 
-### Taheny BELGUITH
+### 👩 Taheny BELGUITH
 
 -GitHub: @TahenyBELGUITH
 -Twitter: @BelguithTaheny
